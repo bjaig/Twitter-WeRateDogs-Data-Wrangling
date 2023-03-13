@@ -9,7 +9,7 @@ The libraries/packages used for this project includes:
 - Pandas: for assessing and manipulating structured data numpy: for assessing multi-dimensional array os: assess the operating system json: To read json files to python dictionaries matplotlib: data visualization tool re: tweepy: open source for assensing Twitter api Requests: to send requests to http in python
 
 ### Methodology
-The analysis of this project followed the 5 stages of data analysis
+The analysis of this project followed the 5 stages of data analysis:
 
 Data Wrangling Data Gathering Assessing Cleaning Visualization
 
