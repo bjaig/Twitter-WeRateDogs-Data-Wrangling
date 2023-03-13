@@ -1,5 +1,5 @@
 # Twitter-WeRateDogs-Data-Wrangling
-by Chimamaka Chilaka
+## by Blessed Utomi Job-Aigbovbioise
 
 ### Dataset
 The dataset was provided in the classroom page of Udacity and contains ratings for dogs and is included in this repository. The goal of this project is to broaden and strengthen my data gathering knowledge.
